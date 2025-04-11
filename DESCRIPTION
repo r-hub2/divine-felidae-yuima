@@ -15,4 +15,4 @@ BugReports: https://github.com/yuimaproject/yuima/issues
 LinkingTo: Rcpp, RcppArmadillo
 NeedsCompilation: yes
 RoxygenNote: 7.3.2
-Packaged: 2025-04-05 01:34:48 UTC; MK
+Packaged: 2025-04-11 03:04:00 UTC; MK
